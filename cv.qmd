@@ -1,0 +1,7 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download my CV here](files/cv_postdoc.pdf)
+
+<iframe src='files/cv_postdoc.pdf' width='100%' height='800px></iframe>
